@@ -1,0 +1,19 @@
+#timeButton {
+  background-color: #4e5b31;
+  color: #c1d1a6;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: large;
+  border-style: outset;
+  border-radius: 4px;
+  width: max-content;
+  cursor: pointer;
+}
+#timeButton:hover {
+  background-color: #c1d1a6;
+  color: #4e5b31;
+  border-style: inset;
+}
+p {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
